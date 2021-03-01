@@ -2,7 +2,7 @@
 解决开始时配置的证书生成数量不够  工具可以追加证书
 
 # 依赖
-依赖地址：https://github.com/xinfei0902/fabirc
+依赖地址：https://github.com/xinfei0902/fabric-sdk-go-basicPackage
 
 # 编译
 windows: ./build_base_windows.ps1 ./GeneralAddCife
