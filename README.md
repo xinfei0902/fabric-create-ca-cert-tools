@@ -1,6 +1,14 @@
 # fabric-create-ca-cert-tools
 解决开始时配置的证书生成数量不够  工具可以追加证书
 
+# 依赖
+依赖地址：https://github.com/xinfei0902/fabirc
+
+# 编译
+windows: ./build_base_windows.ps1 ./GeneralAddCife
+
+linux ./build_base_linux.sh ./GeneralAddCife
+
 ## 创建组织证书 
 
 ### 工具说明
